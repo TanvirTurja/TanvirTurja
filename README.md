@@ -35,6 +35,6 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## 📫 Ping Me on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-turja-aa0a561a9/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanvir-hasan-turja-aa0a561a9/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirh442@gmail.com)
 
