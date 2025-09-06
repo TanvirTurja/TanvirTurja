@@ -10,12 +10,12 @@
 ## 💡 Expertise
 - **ML & AI**: Deep Learning, NLP, Time Series Analysis, RAG Systems, LLM Applications
 - **Big Data**: Databricks, Apache Spark, PySpark, Hadoop
-- **Full Stack**: Vue.js, Node.js, Express.js, RESTful APIs
-- **Cloud & DevOps**: Azure, AWS, Docker, CI/CD
+- **Full Stack**: Vue.js, Node.js, Express.js, RESTful APIs,Typescript
+- **Cloud & DevOps**: Azure, AWS, Docker, CI/CD, Nginx
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanvirTurja&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirTurja&layout=compact&theme=radical)
 
 ## 📫 Let's connect!
@@ -24,3 +24,4 @@
 - 📧 Email: tanvirh442@gmail.com
 
 *Always exploring the intersection of AI and practical problem-solving! Open to collaboration on innovative projects.* ✨
+
